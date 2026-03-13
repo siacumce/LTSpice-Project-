@@ -1,0 +1,7 @@
+# Fisiere de simulare si log-uri LTspice
+*.raw
+*.op.raw
+*.log
+*.plt
+*.fft
+*.bck
